@@ -481,7 +481,9 @@ export default function Home() {
                   <div className="flex items-center gap-3 justify-end">
                     <div>
                       <h3 className="font-bold">العنوان</h3>
-                      <p className="text-muted-foreground">123 شارع الأعمال، الرياض، المملكة العربية السعودية</p>
+                      <p className="text-muted-foreground">23 شارع الأعمال، عمان ، الاردن
+
+</p>
                     </div>
                     <MapPin className="h-6 w-6 text-primary" />
                   </div>
@@ -657,7 +659,9 @@ export default function Home() {
               <h3 className="font-bold">تواصل معنا</h3>
               <ul className="space-y-2">
                 <li className="flex items-center gap-2 justify-end">
-                  <span className="text-muted-foreground">123 شارع الأعمال، الرياض، المملكة العربية السعودية</span>
+                  <span className="text-muted-foreground">23 شارع الأعمال، عمان ، الاردن
+
+</span>
                   <MapPin className="h-5 w-5 text-primary" />
                 </li>
                 <li className="flex items-center gap-2 justify-end">
